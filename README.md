@@ -1,2 +1,2 @@
-# plsql_monitoring_tool
+# PL/SQL monitoring tool
 Radius monitoring tool.
